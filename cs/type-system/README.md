@@ -39,6 +39,7 @@
 C#에서 변수의 데이터 타입은 크게 값 타입(Value Type)과 참조 타입(Reference Type)으로 나뉩니다. 이 두 타입은 메모리에서 값이 저장되고 전달되는 방식 등에서 차이가 있습니다.
 
 **값 타입과 참조 타입의 관계도** (from [Microsoft Documents](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/))
+
 ![relationship between value types and reference types](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/media/index/value-reference-types-common-type-system.png)
 
 ### 값 타입 (Value Type)
