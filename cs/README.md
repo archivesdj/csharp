@@ -7,20 +7,20 @@
 ## 타입 시스템 (Type System)
 
 - [타입 시스템 개요](./type-system/README.md)
-- [클래스](./type-system/class.md)
-- [인터페이스](./type-system/interface.md)
-- [레코드](./type-system/record.md)
-- [구조체](./type-system/struct.md)
-- [열거형](./type-system/enum.md)
+- [클래스](./type-system/class.md): 객체를 만들기 위한 설계도
+- [인터페이스](./type-system/interface.md): 특정 기능을 구현해야 하는 명세(明細)
+- [레코드](./type-system/record.md): 불변(immutable) 데이터 모델을 위한 참조 타입
+- [구조체](./type-system/struct.md): 데이터 저장을 위한 값 타입 구조 (설계도)
+- [열거형](./type-system/enum.md): 여러 개의 상수를 하나의 그룹으로 묶는 자료형
 - [배열](./type-system/array.md)
-- [제네릭](./type-system/generic.md)
-- [튜플](./type-system/tuple.md)
+- [제네릭](./type-system/generic.md): 특정한 데이터 타입에 의존하지 않고 일반화된(generalized) 코드를 작성할 수 있도록 하는 기능
+- [튜플](./type-system/tuple.md): 여러 개의 값을 묶어서 하나의 단위로 표현하는 자료 구조
 - [익명 형식](./type-system/anonymous-type.md)
-- [델리게이트](./type-system/delegate.md)
+- [델리게이트](./type-system/delegate.md): 메서드를 가르키는 타입 (메서드 호출을 대신 수행하는 역할)
 - [이벤트](./type-system/event.md)
 - [동적 타입](./type-system/dynamic-type.md)
 - 추가로 알아야 할것
-  - [박싱 및 언박싱](./type-system/boxing-unboxing.md)
+  - [박싱 및 언박싱](./type-system/boxing-unboxing.md): 값타입과 참조타입의 상호 변환
   - [타입 변환](./type-system/type-conversion.md)
 
 ## 객체 지향 프로그래밍 (Object Oriented Programming)
